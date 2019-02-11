@@ -1,3 +1,8 @@
+## 1.0.6
+
+- Correção do arquivo example/via_cep_example.dart.
+- Correção do arquivo test/via_cep_test.dart.
+
 ## 1.0.5
 
 - Correção do CHANGELOG.md.

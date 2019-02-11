@@ -23,8 +23,9 @@
         <option value="$PROJECT_DIR$/lib/src/viaCEP_base.dart" />
         <option value="$PROJECT_DIR$/LICENSE" />
         <option value="$PROJECT_DIR$/lib/src/via_cep_base.dart" />
-        <option value="$PROJECT_DIR$/test/via_cep_test.dart" />
         <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/example/via_cep_example.dart" />
+        <option value="$PROJECT_DIR$/test/via_cep_test.dart" />
         <option value="$PROJECT_DIR$/CHANGELOG.md" />
         <option value="$PROJECT_DIR$/pubspec.yaml" />
       </list>
@@ -47,6 +48,16 @@
             <path>
               <item name="via_cep" type="b2602c69:ProjectViewProjectNode" />
               <item name="via_cep" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="via_cep" type="b2602c69:ProjectViewProjectNode" />
+              <item name="via_cep" type="462c0819:PsiDirectoryNode" />
+              <item name="example" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="via_cep" type="b2602c69:ProjectViewProjectNode" />
+              <item name="via_cep" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -92,11 +103,12 @@
       <workItem from="1549850687006" duration="1054000" />
       <workItem from="1549851810905" duration="188000" />
       <workItem from="1549852134029" duration="102000" />
+      <workItem from="1549852616486" duration="148000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9556000" />
+    <option name="totallyTimeSpent" value="9704000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
@@ -143,13 +155,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/example/via_cep_example.dart">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/lib/via_cep.dart">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test/via_cep_test.dart">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/lib/src/via_cep_base.dart">
@@ -169,10 +175,22 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/example/via_cep_example.dart">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/via_cep_test.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/CHANGELOG.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor />
+          <first_editor relative-caret-position="34">
+            <caret line="2" column="51" selection-start-line="2" selection-start-column="51" selection-end-line="2" selection-end-column="51" />
+          </first_editor>
           <second_editor />
         </state>
       </provider>
